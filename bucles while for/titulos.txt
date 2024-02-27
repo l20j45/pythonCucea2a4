@@ -1,0 +1,5 @@
+trainee *
+semi jr
+jr
+semi senior
+senior
