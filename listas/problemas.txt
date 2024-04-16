@@ -1,0 +1,22 @@
+1 hulk
+2 monthulk
+si
+
+3 rapid
+4 forgett
+no
+
+5 coder
+6 redocalib
+si
+
+
+4
+revisar cuantas veces se repite una vocal en una palabra
+diccionarios con listas hashmaps
+
+5 
+revisar una oracion es pangram
+
+3
+revisar si una palabra es palindromo

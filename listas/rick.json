@@ -1,0 +1,24 @@
+{
+    "id": 331,
+    "name": "Squanchy",
+    "status": "unknown",
+    "species": "Alien",
+    "type": "Cat-Person",
+    "gender": "Male",
+    "origin": {
+        "name": "Planet Squanch",
+        "url": "https://rickandmortyapi.com/api/location/35"
+    },
+    "location": {
+        "name": "Planet Squanch",
+        "url": "https://rickandmortyapi.com/api/location/35"
+    },
+    "image": "https://rickandmortyapi.com/api/character/avatar/331.jpeg",
+    "episode": [
+        "https://rickandmortyapi.com/api/episode/11",
+        "https://rickandmortyapi.com/api/episode/16",
+        "https://rickandmortyapi.com/api/episode/21"
+    ],
+    "url": "https://rickandmortyapi.com/api/character/331",
+    "created": "2018-01-10T16:29:25.344Z"
+}
