@@ -1,7 +1,7 @@
 import mysql.connector
 from mysql.connector import Error
 
-def consultarDatosUsuario():
+def consultarDatosUsuarios():
     try:
         connection = mysql.connector.connect(host='148.202.39.38',
                                             database='bolicesupreme',
